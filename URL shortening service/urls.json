@@ -1,0 +1,19 @@
+{
+  "urls": [
+    {
+      "original": "https://translate.google.com/?hl=ru",
+      "address": "https://translate.google.com/?hl=ru",
+      "code": "pRJGyg"
+    },
+    {
+      "original": "12345",
+      "address": "https://12345",
+      "code": "yqlLGA"
+    },
+    {
+      "original": "123",
+      "address": "https://123",
+      "code": "g5lwJg"
+    }
+  ]
+}
